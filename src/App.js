@@ -16,11 +16,11 @@ function App() {
     <SearchArea />
 
     <Switch>
-    <Route path = "/e-book-website/" exact component = {Library} />
-    <Route path = "/e-book-website/read/:id" component = {ReadBook} />
-    <Route path = "/e-book-website/wishlist" component = {WishList} />
-    <Route path = "/e-book-website/subscriptions" component = {Subscriptions} />
-    <Route path = "/e-book-website/wallet" component = {Wallet} />
+    <Route path = "/" exact component = {Library} />
+    <Route path = "/read/:id" component = {ReadBook} />
+    <Route path = "/wishlist" component = {WishList} />
+    <Route path = "/subscriptions" component = {Subscriptions} />
+    <Route path = "/wallet" component = {Wallet} />
     </Switch>
 
     </Router>
