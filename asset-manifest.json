@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/e-book-website/static/css/main.1753928c.chunk.css",
+    "main.js": "/e-book-website/static/js/main.7a80f24e.chunk.js",
+    "main.js.map": "/e-book-website/static/js/main.7a80f24e.chunk.js.map",
+    "runtime-main.js": "/e-book-website/static/js/runtime-main.4bf59225.js",
+    "runtime-main.js.map": "/e-book-website/static/js/runtime-main.4bf59225.js.map",
+    "static/js/2.2519e177.chunk.js": "/e-book-website/static/js/2.2519e177.chunk.js",
+    "static/js/2.2519e177.chunk.js.map": "/e-book-website/static/js/2.2519e177.chunk.js.map",
+    "index.html": "/e-book-website/index.html",
+    "static/css/main.1753928c.chunk.css.map": "/e-book-website/static/css/main.1753928c.chunk.css.map",
+    "static/js/2.2519e177.chunk.js.LICENSE.txt": "/e-book-website/static/js/2.2519e177.chunk.js.LICENSE.txt",
+    "static/media/ILYG.22fb9216.jpg": "/e-book-website/static/media/ILYG.22fb9216.jpg",
+    "static/media/KWK.ab2ce726.jpg": "/e-book-website/static/media/KWK.ab2ce726.jpg",
+    "static/media/Perfume.55745e7b.jpg": "/e-book-website/static/media/Perfume.55745e7b.jpg",
+    "static/media/WITW.17e04133.jpg": "/e-book-website/static/media/WITW.17e04133.jpg",
+    "static/media/WOWS.c497e196.jpg": "/e-book-website/static/media/WOWS.c497e196.jpg",
+    "static/media/index.css": "/e-book-website/static/media/alchemist.f203c144.png",
+    "static/media/shining.999289e3.jpg": "/e-book-website/static/media/shining.999289e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf59225.js",
+    "static/js/2.2519e177.chunk.js",
+    "static/css/main.1753928c.chunk.css",
+    "static/js/main.7a80f24e.chunk.js"
+  ]
+}
